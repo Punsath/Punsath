@@ -25,9 +25,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punsath vidunayana perera" height="30" width="40" />
 </a>
 <a href="https://kaggle.com/punsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="punsath" height="30" width="40" /></a>
-<a href="https://www.facebook.com/punsath.vidunayana.1" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="punsath vidunayana" height="30" width="40" />
-</a>
+<a href="https://www.facebook.com/punsath.vidunayana.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="punsath vidunayana" height="30" width="40"</a>
 <a href="https://www.instagram.com/_vidunayana_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punsath vidunayana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the abysmal archive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the abysmal archive" height="30" width="40" /></a>
 </p>
