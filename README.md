@@ -10,9 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
 
 
-- 🌱 I’m currently learning **React, TensorFlow**
+- 🌱 I'm currently working as **Intern Software Engineer**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Next.js, React.js**
 
 - 📫 How to reach me **123vidunayana@gmail.com**
 
