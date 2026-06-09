@@ -96,11 +96,38 @@ const vidu = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 What I'm Up To
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Punsath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔭 Current Focus
+- Building production-grade apps with **Next.js** & **React**
+- Exploring **TypeScript** best practices
+- Deep-diving into **Spring Boot** microservices
+
+### 🌱 Always Learning
+- System design & scalable architecture
+- AI/ML integration into web products
+- UI/UX principles with Figma
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💼 Experience
+- 🏢 Associate Software Engineer
+- 🎓 Computer Science Graduate
+- 🌍 Based in Sri Lanka
+
+### 📬 Reach Me
+- ✉️ [123vidunayana@gmail.com](mailto:123vidunayana@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/punsath-vidunayana-perera-067618256/)
+- 🐦 [@punsath](https://twitter.com/punsath)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
