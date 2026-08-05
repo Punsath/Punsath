@@ -36,7 +36,7 @@
 ```typescript
 const vidu = {
   name     : "Punsath Vidunayana",
-  role     : "Associate Software Engineer",
+  role     : "Project Manager Executive",
   location : "Sri Lanka 🇱🇰",
   focus    : ["Next.js", "React.js", "Full-Stack Development"],
   learning : "Building scalable modern web applications",
@@ -111,7 +111,7 @@ const vidu = {
     <td width="50%" valign="top">
 
 ### 💼 Experience
-- 🏢 Associate Software Engineer
+- 🏢 Project Manager Executive
 - 🎓 Computer Science Graduate
 - 🌍 Based in Sri Lanka
 
